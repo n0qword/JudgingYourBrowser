@@ -1,0 +1,1 @@
+A couple of PoC tools to support the post ["Revisiting Enterprise Browser Policies Tradecraft"](https://blog.n0qword.com/blog/revisiting-enterprise-browser-policies-tradecraft-2026-10-08/).
