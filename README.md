@@ -1,1 +1,1 @@
-A couple of PoC tools to support the post ["Revisiting Enterprise Browser Policies Tradecraft"](https://blog.n0qword.com/blog/revisiting-enterprise-browser-policies-tradecraft-2026-10-08/).
+A couple of PoC tools to support the post ["Chromium Enterprise Policies for Offensive Tradecraft — Part 1"](https://blog.n0qword.com/blog/chromium-enterprise-policies-for-offensive-tradecraft/).
